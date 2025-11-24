@@ -46,7 +46,3 @@ All output is printed directly from the methods (no Scanner input - everything i
 That's it - no additional setup or dependencies required!
 
 Happy coding!
-```
-
-Just copy-paste everything above (including the ```markdown
-```
