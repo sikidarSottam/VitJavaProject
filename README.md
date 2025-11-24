@@ -1,4 +1,3 @@
-```markdown
 # Simple Banking System - Java Project
 
 A basic console-based banking application made as a college OOP project.  
